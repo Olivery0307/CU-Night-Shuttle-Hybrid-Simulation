@@ -1,0 +1,5 @@
+input_data/
+output_data/
+__pycache__/
+*.DS_Store
+.ipynb_checkpoints/
