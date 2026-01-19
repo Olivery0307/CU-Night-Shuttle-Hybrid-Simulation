@@ -33,14 +33,17 @@ The simulation demonstrates that the Hybrid Policy offers a balanced improvement
 
 ### Visualizations
 
-![Figure 2: Average Travel Time Breakdown by Scenario](image/avg_time_breakdown_hybrid.png)
-*Figure 2: Comparison of wait, ride, and walk times across the three scenarios.*
+![Figure 1: Average Travel Time Breakdown by Scenario](image/avg_time_breakdown_hybrid.png)
 
-![Figure 4: Average Travel Time Breakdown by Scenario in Hybrid System](image/avg_time_breakdown.png)
-*Figure 4: Breakdown showing how Corner Users in the Hybrid system benefit from significantly faster trips.*
+*Figure 1: Comparison of wait, ride, and walk times across the three scenarios.*
 
-![Figure 5: Average Travel Time Hourly Trend by Scenario](image/avg_time_hourly.png)
-*Figure 5: Hourly trends showing the Hybrid model's effectiveness during peak demand.*
+![Figure 2: Average Travel Time Breakdown by Scenario in Hybrid System](image/avg_time_breakdown.png)
+
+*Figure 2: Breakdown showing how Corner Users in the Hybrid system benefit from significantly faster trips.*
+
+![Figure 3: Average Travel Time Hourly Trend by Scenario](image/avg_time_hourly.png)
+
+*Figure 3: Hourly trends showing the Hybrid model's effectiveness during peak demand.*
 
 ## Repository Structure
 
